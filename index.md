@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Selamat Datang di Halaman SPMI APJPB Pontianak
 
-You can use the [editor on GitHub](https://github.com/spmiakademiperpajakanpbptk/spmiakademiperpajakanpbptk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Berisi tentang standar pengendalian mutu individu yang disusun oleh staf pengajar atau dosen pada kampus APJPB Pontianak.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Kebijakan Mutu
 
-### Markdown
+Pada Halaman ini berisi informasi kebijakan mutu kampus APJPB Pontianak.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Manual Mutu
 
-```markdown
-Syntax highlighted code block
+Pada Halaman ini berisi informasi manual mutu kampus APJPB Pontianak.
 
-# Header 1
-## Header 2
-### Header 3
+### Standar Mutu
 
-- Bulleted
-- List
+Pada Halaman ini berisi informasi standar mutu kampus APJPB Pontianak.
 
-1. Numbered
-2. List
+### Formulir Mutu
 
-**Bold** and _Italic_ and `Code` text
+Pada Halaman ini berisi informasi formulir mutu kampus APJPB Pontianak.
 
-[Link](url) and ![Image](src)
-```
+### Audit Mutu Internal
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [TA 2018 - 2019](https://drive.google.com/file/d/1M9z6E81wwW4BLVPnFU-YZAE4p1yOQpWe/view?usp=sharing)
+2. [TA 2019 - 2020](https://drive.google.com/file/d/1M9z6E81wwW4BLVPnFU-YZAE4p1yOQpWe/view?usp=sharing)
+3. [TA 2020 - 2021](https://drive.google.com/file/d/1M9z6E81wwW4BLVPnFU-YZAE4p1yOQpWe/view?usp=sharing) 
 
-### Jekyll Themes
+### Tim Penyusun
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spmiakademiperpajakanpbptk/spmiakademiperpajakanpbptk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Tim SPMI Kampus APJ Panca Bhakti Pontianak
 
-### Support or Contact
+### Hubungi Kami
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Kampus APJ Panca Bhakti Pontianak
+- Jl. Slt. Abdurrahman No.8, Sungai Bangkong, Kec. Pontianak Kota,
+- Telp. +62561-735695
+- Kota Pontianak, Kalimantan Barat 78121
