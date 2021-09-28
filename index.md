@@ -13,18 +13,18 @@ Pada Halaman ini berisi informasi [Manual Mutu](https://drive.google.com/file/d/
 ### Standar Mutu
 
 a. Standar Utama :
-   1. Standar Pendidikan
-   3. Standar Penelitian
-   4. Standar PKM
+   1. [Standar Pendidikan](https://drive.google.com/file/d/1IHzEfK1SGhjVjRERtRtMbPzL0ZIQC-p5/view?usp=sharing)
+   3. [Standar Penelitian](https://drive.google.com/file/d/1fCk1AWWOcantPqe5EFEbHDWeI4maWOLa/view?usp=sharing)
+   4. [Standar PKM](https://drive.google.com/file/d/1tsk30siX-aFJoiPkCFq_GyPp2zkCod6n/view?usp=sharing)
 
 b. Standar Turunan 
-   1. Standar Pengelolaan Organisasi
-   2. Standar Kemahasiswaan
-   3. Standar SDM
-   4. Standar Sarpras
-   5. Standar Kerjasama
-   6. Standar Keuangan
-   7. Standar Kesejahteraan
+   1. [Standar Pengelolaan Organisasi](https://drive.google.com/file/d/1JHUA4DRB7CmM1v1XgyzcO527Tz8mY_XR/view?usp=sharing)
+   2. [Standar Kemahasiswaan](https://drive.google.com/file/d/1gMFQmR1KsIqI5sPgTU0HrpKmeFfj3PAd/view?usp=sharing)
+   3. [Standar SDM](https://drive.google.com/file/d/16uwrqzeemW-w8W7IZKm3sAgT0rSKJb8-/view?usp=sharing)
+   4. [Standar Sarpras](https://drive.google.com/file/d/1fEcrIO6hivgcKRRMKezd18U9jpWs7rVx/view?usp=sharing)
+   5. [Standar Kerjasama](https://drive.google.com/file/d/1tPN38J1d69i0ug7CzDLABNcOfHdk9B_L/view?usp=sharing)
+   6. [Standar Keuangan](https://drive.google.com/file/d/1b3bFszHm_bZyHFjgvD4TXEywybJ1nq5r/view?usp=sharing)
+   7. [Standar Kesejahteraan](https://drive.google.com/file/d/1asuelKWJyPi3-ESZ7wS71-3Kahy6SC8v/view?usp=sharing)
 
 ### Formulir Mutu
 
