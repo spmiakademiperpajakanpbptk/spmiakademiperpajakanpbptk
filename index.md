@@ -12,7 +12,19 @@ Pada Halaman ini berisi informasi [Manual Mutu](https://drive.google.com/file/d/
 
 ### Standar Mutu
 
-Pada Halaman ini berisi informasi standar mutu kampus APJPB Pontianak.
+a. Standar Utama :
+   1.Standar Pendidikan
+   2.Standar Penelitian
+   3.Standar PKM
+
+b. Standar Turunan 
+   1.Standar Pengelolaan Organisasi
+   2.Standar Kemahasiswaan
+   3.Standar SDM
+   4.Standar Sarpras
+   5.Standar Kerjasama
+   6.Standar Keuangan
+   7.Standar Kesejahteraan
 
 ### Formulir Mutu
 
