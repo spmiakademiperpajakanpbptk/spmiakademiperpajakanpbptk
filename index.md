@@ -36,6 +36,9 @@ Pada Halaman ini berisi informasi [Formulir Mutu](https://drive.google.com/file/
 2. TA 2019 - 2020
 3. TA 2020 - 2021
 
+### Hasil Evaluasi Audit Mutu Internal
+1. [Tahun 2021 - 2022](https://docs.google.com/document/d/1C2il3kUVjb0iUjyntCJGgip3mm75x0Rn/edit?usp=sharing&ouid=102662965025476317030&rtpof=true&sd=true)
+
 ### Tim Penyusun
 
 - Tim SPMI Kampus APJ Panca Bhakti Pontianak
